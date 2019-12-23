@@ -1,0 +1,96 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0px;
+    width: 40%;
+    margin: auto;
+    background-color: rgb(189, 176, 176);
+}
+
+header img {
+    width: 25%;
+    height: 25%;
+    border: solid 3px gray;
+    border-radius: 150px;
+}
+header {
+    text-align: center;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+}
+header p {
+    text-align: left;
+    margin-right:15px;
+    margin-left: 15px;
+}
+
+header a {
+    background-color: red;
+    border-radius: 5px;
+    padding:10px;
+    color: white;
+    font-weight: bold; 
+}
+
+header a:link {
+    text-decoration: none;
+}
+
+h1 {
+    color: red;
+}
+
+aside {
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+aside a:link {
+ text-decoration: none;
+ color: (161, 153, 153);
+}
+
+aside a:visited {
+    color: rgb(161, 153, 153);
+}
+
+aside li {
+    text-align: center;
+    display: inline-block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 35px;
+    line-height: 30px;
+}
+
+main {
+    background-color: white;
+    border-radius: 20px;
+    padding:30px;
+    height: 700px;
+}
+article {
+    float: right;
+}
+
+h2 {
+ text-align: center;
+}
+
+article img {
+    width: 100px;
+    height: 150px;
+    float: left;
+    padding-bottom:40px;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+
+#his {
+    background-color: rgb(153, 138, 138);
+}
