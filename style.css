@@ -94,3 +94,7 @@ article img {
 #his {
     background-color: rgb(153, 138, 138);
 }
+
+strong {
+    font-weight: bolder;
+}
